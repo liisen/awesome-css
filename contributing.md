@@ -2,18 +2,17 @@
 
 Unfortunately, not every library/tool/framework can be considered. The aim of the list is to provide a concise list of noteworthy modern software. This means that suggested software is either
 
-(a) widely recommended regardless of personal opinion
+\(a\) widely recommended regardless of personal opinion
 
-(b) highly discussed in the community due to its innovative nature
+\(b\) highly discussed in the community due to its innovative nature
 
-(c) absolutely unique in its approach and function
+\(c\) absolutely unique in its approach and function
 
-(d) a niche product that fills a gap
+\(d\) a niche product that fills a gap
 
 Self-promotion is frowned upon and will be reviewed critically but the suggestion will of course be approved if they criteria match.
 
 If a certain entry does not get accepted, you should first look if there has been a discussion before. These discussions are in the issue section and normally marked with the question tag. If there hasn't been such a topic, you are free to create a new issue tagged as question.
-
 
 Furthermore, please ensure your pull request follows the following guidelines:
 
@@ -28,3 +27,4 @@ Furthermore, please ensure your pull request follows the following guidelines:
 * Make sure your text editor is set to remove trailing whitespace.
 
 Thank you for your suggestions!
+
